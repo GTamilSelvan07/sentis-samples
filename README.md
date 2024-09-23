@@ -1,5 +1,5 @@
 # Sentis-samples
-Sentis samples internal development repository. 
+
 
 Contains example and template projects for Sentis package use.
 ## Samples
